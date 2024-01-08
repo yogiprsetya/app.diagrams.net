@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:21:19.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-XFyVwd1Jq4vFrNtFUnN" version="21.7.2" type="github">
+  <diagram name="Page-1" id="c0BkALPo60dT4PhIShOH">
+    <mxGraphModel dx="600" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H29aB0WoKidz8zTTx161-2" value="Senbird instance init" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H29aB0WoKidz8zTTx161-3" target="H29aB0WoKidz8zTTx161-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-3" value="Get ekey" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="157.5" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-4" value="Success" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H29aB0WoKidz8zTTx161-4" target="H29aB0WoKidz8zTTx161-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="230" as="sourcePoint" />
+            <mxPoint x="280" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H29aB0WoKidz8zTTx161-2" target="H29aB0WoKidz8zTTx161-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="210" as="sourcePoint" />
+            <mxPoint x="280" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H29aB0WoKidz8zTTx161-7" target="H29aB0WoKidz8zTTx161-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Create auth URL format:&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;https://file-ap-5.sendbird.com/files.png?auth={ekey}&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H29aB0WoKidz8zTTx161-10" target="H29aB0WoKidz8zTTx161-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-10" value="Download via URL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="235" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H29aB0WoKidz8zTTx161-13" value="Fail" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
