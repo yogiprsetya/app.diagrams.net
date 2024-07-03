@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T03:18:44.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="WJNB2U-8bWJxIVdxQ2Yj" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-03T04:06:55.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="PiQzLDw_ro1Jk4DkAcgu" version="24.6.4" type="github" pages="4">
   <diagram name="Page-1" id="0ORSx8LRnBOkC67IxLJI">
     <mxGraphModel dx="2085" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,12 +95,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="nFkS9BRE9M-niLFiysaL" name="Chat Authentication ">
-    <mxGraphModel dx="1313" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="nFkS9BRE9M-niLFiysaL" name="Authentication ">
+    <mxGraphModel dx="1050" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LHKKHan5Uk_gRV6371GA-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="LHKKHan5Uk_gRV6371GA-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="40" width="996" height="665" as="geometry" />
         </mxCell>
         <mxCell id="PBRD8OXH9wPvSlpVfhk5-1" value="padiumkm.id" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=0;opacity=50;" parent="LHKKHan5Uk_gRV6371GA-4" vertex="1">
@@ -149,12 +149,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LHKKHan5Uk_gRV6371GA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PBRD8OXH9wPvSlpVfhk5-1" source="PBRD8OXH9wPvSlpVfhk5-15" target="LHKKHan5Uk_gRV6371GA-5">
+        <mxCell id="LHKKHan5Uk_gRV6371GA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="PBRD8OXH9wPvSlpVfhk5-1" source="PBRD8OXH9wPvSlpVfhk5-15" target="LHKKHan5Uk_gRV6371GA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="361.9763844609752" y="319.3758064516129" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LHKKHan5Uk_gRV6371GA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.028;exitY=0.875;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#cdeb8b;strokeColor=#00FF00;exitPerimeter=0;" edge="1" parent="PBRD8OXH9wPvSlpVfhk5-1" source="PBRD8OXH9wPvSlpVfhk5-15" target="LHKKHan5Uk_gRV6371GA-5">
+        <mxCell id="LHKKHan5Uk_gRV6371GA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.028;exitY=0.875;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#cdeb8b;strokeColor=#00FF00;exitPerimeter=0;" parent="PBRD8OXH9wPvSlpVfhk5-1" source="PBRD8OXH9wPvSlpVfhk5-15" target="LHKKHan5Uk_gRV6371GA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370.45696068012745" y="308.6500000000001" as="sourcePoint" />
             <Array as="points">
@@ -163,7 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LHKKHan5Uk_gRV6371GA-8" value="signInWithCustomToken()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LHKKHan5Uk_gRV6371GA-7">
+        <mxCell id="LHKKHan5Uk_gRV6371GA-8" value="signInWithCustomToken()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LHKKHan5Uk_gRV6371GA-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1284" y="1" relative="1" as="geometry">
             <mxPoint x="73" y="25" as="offset" />
           </mxGeometry>
@@ -174,13 +174,13 @@
         <mxCell id="PBRD8OXH9wPvSlpVfhk5-48" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=10;" parent="PBRD8OXH9wPvSlpVfhk5-1" vertex="1">
           <mxGeometry x="424.42093517534533" y="176.00032258064516" width="19.052072263549412" height="19.052072263549412" as="geometry" />
         </mxCell>
-        <mxCell id="LHKKHan5Uk_gRV6371GA-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=10;" vertex="1" parent="PBRD8OXH9wPvSlpVfhk5-1">
+        <mxCell id="LHKKHan5Uk_gRV6371GA-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=10;" parent="PBRD8OXH9wPvSlpVfhk5-1" vertex="1">
           <mxGeometry x="405.3674707757704" y="297.358064516129" width="19.052072263549412" height="19.052072263549412" as="geometry" />
         </mxCell>
-        <mxCell id="LHKKHan5Uk_gRV6371GA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PBRD8OXH9wPvSlpVfhk5-1">
+        <mxCell id="LHKKHan5Uk_gRV6371GA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="PBRD8OXH9wPvSlpVfhk5-1" vertex="1">
           <mxGeometry x="353.52" y="328" width="16.94" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="LHKKHan5Uk_gRV6371GA-10" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=10;" vertex="1" parent="PBRD8OXH9wPvSlpVfhk5-1">
+        <mxCell id="LHKKHan5Uk_gRV6371GA-10" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=10;" parent="PBRD8OXH9wPvSlpVfhk5-1" vertex="1">
           <mxGeometry x="413.4174707757705" y="233.00806451612902" width="19.052072263549412" height="19.052072263549412" as="geometry" />
         </mxCell>
         <mxCell id="PBRD8OXH9wPvSlpVfhk5-2" value="ms-core-chat" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;swimlaneLine=0;opacity=50;" parent="LHKKHan5Uk_gRV6371GA-4" vertex="1">
