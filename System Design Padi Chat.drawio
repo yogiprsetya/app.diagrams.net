@@ -1081,22 +1081,71 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PnmB0vMcXwr80MM-xcGP-2" value="Padi Chat - NPC&lt;br&gt;- Broadcast to seller&lt;br&gt;- Broadcast to buyer" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="140" height="60" as="geometry" />
+          <mxGeometry x="23" y="400" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnmB0vMcXwr80MM-xcGP-4" value="&lt;div&gt;&lt;b&gt;MS-CORE-CHAT&lt;/b&gt;&lt;/div&gt;&lt;div&gt;send-bulk-message&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnmB0vMcXwr80MM-xcGP-5" target="PnmB0vMcXwr80MM-xcGP-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PnmB0vMcXwr80MM-xcGP-5" value="Campaign&lt;br&gt;- seller to buyer" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="140" height="60" as="geometry" />
+          <mxGeometry x="23" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnmB0vMcXwr80MM-xcGP-7" value="New table (NPC data)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10.000000000000114;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="37" y="60" width="145" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PnmB0vMcXwr80MM-xcGP-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e74c3c;strokeColor=#e74c3c;" vertex="1" parent="1">
-          <mxGeometry x="430" y="120" width="10" height="10" as="geometry" />
+          <mxGeometry x="20" y="340" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnmB0vMcXwr80MM-xcGP-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e74c3c;strokeColor=#e74c3c;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="10" height="10" as="geometry" />
+          <mxGeometry x="153" y="400" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnmB0vMcXwr80MM-xcGP-2" target="PnmB0vMcXwr80MM-xcGP-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="500" as="sourcePoint" />
+            <mxPoint x="253" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="293" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="233" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Marketing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Tools&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PnmB0vMcXwr80MM-xcGP-17">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e74c3c;strokeColor=#e74c3c;" vertex="1" parent="PnmB0vMcXwr80MM-xcGP-17">
+          <mxGeometry x="110" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="403" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-4" value="&lt;div&gt;&lt;b&gt;MS-CORE-CHAT&lt;/b&gt;&lt;/div&gt;&lt;div&gt;send-bulk-message&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PnmB0vMcXwr80MM-xcGP-18">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e74c3c;strokeColor=#e74c3c;" vertex="1" parent="PnmB0vMcXwr80MM-xcGP-18">
+          <mxGeometry x="110" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnmB0vMcXwr80MM-xcGP-14" target="PnmB0vMcXwr80MM-xcGP-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-23" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Bubble chat:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Additional label&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;- Condition tracking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-24" value="&lt;div&gt;&lt;b&gt;Store &amp;amp; Data:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Additional field: flaging regular chat or campaign &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;- Shared Attachment: 1 image for all broadcast target" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="483" y="530" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnmB0vMcXwr80MM-xcGP-4" target="PnmB0vMcXwr80MM-xcGP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnmB0vMcXwr80MM-xcGP-4" target="PnmB0vMcXwr80MM-xcGP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PnmB0vMcXwr80MM-xcGP-14" target="PnmB0vMcXwr80MM-xcGP-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-32" value="&lt;div align=&quot;left&quot;&gt;Utilize data:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Save audience setting&lt;/div&gt;&lt;div style=&quot;padding-right: 4px;&quot; align=&quot;left&quot;&gt;- Create group / category&lt;/div&gt;&lt;div style=&quot;padding-right: 4px;&quot; align=&quot;left&quot;&gt;- History campaign&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
