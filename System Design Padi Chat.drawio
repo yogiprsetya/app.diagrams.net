@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.16" pages="7">
   <diagram name="Page-1" id="0ORSx8LRnBOkC67IxLJI">
     <mxGraphModel dx="2085" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1068,6 +1068,17 @@
         </mxCell>
         <mxCell id="fdXz2qSIuy4-_I76dtVK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdXz2qSIuy4-_I76dtVK-11" target="fdXz2qSIuy4-_I76dtVK-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y-khVf09qbiWZfxIloTJ" name="Chat for Campign">
+    <mxGraphModel dx="778" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-2" value="Padi Chat - NPC&lt;br&gt;- Broadcast to seller&lt;br&gt;- Broadcast to buyer" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
