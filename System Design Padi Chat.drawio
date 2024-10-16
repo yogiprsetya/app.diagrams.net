@@ -1073,12 +1073,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y-khVf09qbiWZfxIloTJ" name="Chat for Campign">
-    <mxGraphModel dx="778" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PnmB0vMcXwr80MM-xcGP-2" value="Padi Chat - NPC&lt;br&gt;- Broadcast to seller&lt;br&gt;- Broadcast to buyer" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="140" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
