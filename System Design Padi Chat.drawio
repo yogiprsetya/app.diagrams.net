@@ -1091,7 +1091,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aKjULuc0NYK4r7sCLS1q" name="Developer Page">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1107,14 +1107,39 @@
         <mxCell id="vSb2M9tQd_yt1DRyW6-R-1" value="Application Segmentation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" y="40" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSb2M9tQd_yt1DRyW6-R-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vSb2M9tQd_yt1DRyW6-R-2" value="Open API Docs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSb2M9tQd_yt1DRyW6-R-4" value="Open API Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vSb2M9tQd_yt1DRyW6-R-8" value="Developer Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-8" value="Developer Area" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vSb2M9tQd_yt1DRyW6-R-1" target="vSb2M9tQd_yt1DRyW6-R-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="220" as="sourcePoint" />
+            <mxPoint x="210" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-11" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Single Auth&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;(endpoint)&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=9;" connectable="0" vertex="1" parent="vSb2M9tQd_yt1DRyW6-R-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-15" value="Role Based Auth" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-16" value="openapi-admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vSb2M9tQd_yt1DRyW6-R-15">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-17" value="developer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vSb2M9tQd_yt1DRyW6-R-15">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
