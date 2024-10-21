@@ -1095,6 +1095,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSb2M9tQd_yt1DRyW6-R-1" target="vSb2M9tQd_yt1DRyW6-R-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSb2M9tQd_yt1DRyW6-R-1" target="vSb2M9tQd_yt1DRyW6-R-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSb2M9tQd_yt1DRyW6-R-1" target="vSb2M9tQd_yt1DRyW6-R-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-1" value="Application Segmentation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-2" value="Open API Docs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-4" value="Open API Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSb2M9tQd_yt1DRyW6-R-8" value="Developer Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
