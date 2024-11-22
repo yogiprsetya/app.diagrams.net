@@ -1181,9 +1181,9 @@
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGJEiFcKrKWjEn7lNZrT-2" target="dGJEiFcKrKWjEn7lNZrT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGJEiFcKrKWjEn7lNZrT-8" value="Enkrip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dGJEiFcKrKWjEn7lNZrT-7">
+        <mxCell id="dGJEiFcKrKWjEn7lNZrT-8" value="Encript" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dGJEiFcKrKWjEn7lNZrT-7">
           <mxGeometry x="0.1818" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGJEiFcKrKWjEn7lNZrT-2" target="dGJEiFcKrKWjEn7lNZrT-14">
@@ -1217,18 +1217,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dGJEiFcKrKWjEn7lNZrT-20" value="ENkripted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dGJEiFcKrKWjEn7lNZrT-19">
+        <mxCell id="dGJEiFcKrKWjEn7lNZrT-20" value="Encripted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dGJEiFcKrKWjEn7lNZrT-19">
           <mxGeometry x="-0.398" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dGJEiFcKrKWjEn7lNZrT-6" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dGJEiFcKrKWjEn7lNZrT-6" value="&lt;div&gt;Firestore&amp;nbsp;&lt;/div&gt;&lt;div&gt;DB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dGJEiFcKrKWjEn7lNZrT-10" target="dGJEiFcKrKWjEn7lNZrT-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGJEiFcKrKWjEn7lNZrT-10" value="SDK" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="dGJEiFcKrKWjEn7lNZrT-10" value="&lt;div&gt;Firebase&lt;/div&gt;&lt;div&gt;SDK&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="620" y="255" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-14" value="Key" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
