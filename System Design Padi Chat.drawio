@@ -1163,7 +1163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3vGh_tlwqopRFKhkfDac" name="Enkrip Dekrip">
-    <mxGraphModel dx="3567" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3800" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1319,7 +1319,7 @@
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-26" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="FpWlYF9ewaTBgeSpdRpB-21" target="FpWlYF9ewaTBgeSpdRpB-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FpWlYF9ewaTBgeSpdRpB-21" value="decryptSecretKey(&lt;font color=&quot;#ff6666&quot;&gt;encryptedBuyerSecretKey&lt;/font&gt;, sellerPrivateKey)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="FpWlYF9ewaTBgeSpdRpB-21" value="decryptSecretKey(&lt;font color=&quot;#ff6666&quot;&gt;encryptedBuyerSecretKey&lt;/font&gt;, &lt;font color=&quot;#00ff00&quot;&gt;sellerPrivateKey&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="-160" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-23" value="&lt;font color=&quot;#ff6666&quot;&gt;encryptedBuyerSecretKey&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -1334,8 +1334,8 @@
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-25" value="encryptedBuyerMsg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="-240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FpWlYF9ewaTBgeSpdRpB-27" value="buyerSecretKey" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="-190" width="100" height="30" as="geometry" />
+        <mxCell id="FpWlYF9ewaTBgeSpdRpB-27" value="plaintext: &lt;font color=&quot;#007fff&quot;&gt;buyerSecretKey&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="-190" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-31" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="FpWlYF9ewaTBgeSpdRpB-28" target="FpWlYF9ewaTBgeSpdRpB-30">
           <mxGeometry relative="1" as="geometry" />
@@ -1361,7 +1361,7 @@
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-35" value="&lt;font color=&quot;#cc6600&quot;&gt;sellerPublicKey&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="-520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FpWlYF9ewaTBgeSpdRpB-36" value="sellerPrivateKey" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="FpWlYF9ewaTBgeSpdRpB-36" value="&lt;font color=&quot;#00ff00&quot;&gt;sellerPrivateKey&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="-520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-37" value="Asimetris" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
