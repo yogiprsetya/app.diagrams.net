@@ -1163,7 +1163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3vGh_tlwqopRFKhkfDac" name="Enkrip Dekrip">
-    <mxGraphModel dx="4500" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3635" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1349,7 +1349,7 @@
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-37" value="Asimetris" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-1270" y="-550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B3koVr0C25SMxbMkGv8T-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="B3koVr0C25SMxbMkGv8T-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2092" y="90" width="1100" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="lMMigSN3cL0hwDdh9833-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="B3koVr0C25SMxbMkGv8T-1" target="lMMigSN3cL0hwDdh9833-3" edge="1">
@@ -1400,7 +1400,7 @@
         <mxCell id="lMMigSN3cL0hwDdh9833-19" value="" style="group" parent="B3koVr0C25SMxbMkGv8T-1" vertex="1" connectable="0">
           <mxGeometry x="427" y="130" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lMMigSN3cL0hwDdh9833-17" value="MS-CHAT create:&lt;br&gt;&lt;div&gt;- private_key&lt;/div&gt;&lt;div&gt;- public_key&lt;/div&gt;&lt;div&gt;- secret_key&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="lMMigSN3cL0hwDdh9833-19" vertex="1">
+        <mxCell id="lMMigSN3cL0hwDdh9833-17" value="MS-CHAT create:&lt;br&gt;&lt;div&gt;- &lt;strike&gt;private_key&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;- public_key&lt;/div&gt;&lt;div&gt;- secret_key&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="lMMigSN3cL0hwDdh9833-19" vertex="1">
           <mxGeometry x="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lMMigSN3cL0hwDdh9833-20" value="" style="group" parent="B3koVr0C25SMxbMkGv8T-1" vertex="1" connectable="0">
@@ -1518,9 +1518,6 @@
             <mxPoint x="779" y="1066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lMMigSN3cL0hwDdh9833-32" value="MS-CHAT create:&lt;br&gt;&lt;div&gt;- private_key&lt;/div&gt;&lt;div&gt;- public_key&lt;/div&gt;&lt;div&gt;- secret_key&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" parent="B3koVr0C25SMxbMkGv8T-1" vertex="1">
-          <mxGeometry x="410" y="926" width="100" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="lMMigSN3cL0hwDdh9833-34" style="shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;edgeStyle=orthogonalEdgeStyle;" parent="B3koVr0C25SMxbMkGv8T-1" source="lMMigSN3cL0hwDdh9833-27" target="lMMigSN3cL0hwDdh9833-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="836" as="targetPoint" />
@@ -1562,6 +1559,12 @@
         </mxCell>
         <mxCell id="lMMigSN3cL0hwDdh9833-77" value="Dapet 2 object terenkripsi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="B3koVr0C25SMxbMkGv8T-1" vertex="1">
           <mxGeometry x="557" y="1074" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ol0JsVS7JV3KA15vb1v-1" value="" style="group" vertex="1" connectable="0" parent="B3koVr0C25SMxbMkGv8T-1">
+          <mxGeometry x="402" y="930" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ol0JsVS7JV3KA15vb1v-2" value="MS-CHAT create:&lt;br&gt;&lt;div&gt;- &lt;strike&gt;private_key&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;- public_key&lt;/div&gt;&lt;div&gt;- secret_key&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="6ol0JsVS7JV3KA15vb1v-1">
+          <mxGeometry x="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
