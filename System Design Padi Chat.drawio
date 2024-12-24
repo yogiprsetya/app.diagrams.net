@@ -1163,7 +1163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3vGh_tlwqopRFKhkfDac" name="Enkrip Dekrip">
-    <mxGraphModel dx="4500" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="5900" dy="2657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1176,7 +1176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-1" value="Create Msg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-550" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGJEiFcKrKWjEn7lNZrT-2" target="dGJEiFcKrKWjEn7lNZrT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1195,7 +1195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-2" value="MS Core Chat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dGJEiFcKrKWjEn7lNZrT-5" target="dGJEiFcKrKWjEn7lNZrT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1209,14 +1209,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-5" value="Padi Apps" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="880" y="230" width="130" height="130" as="geometry" />
+          <mxGeometry x="130" y="-370" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dGJEiFcKrKWjEn7lNZrT-6" target="dGJEiFcKrKWjEn7lNZrT-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="240" as="targetPoint" />
+            <mxPoint x="-100" y="-360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="170" />
-              <mxPoint x="660" y="170" />
+              <mxPoint x="100" y="-430" />
+              <mxPoint x="-90" y="-430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1226,27 +1226,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-6" value="&lt;div&gt;Firestore&amp;nbsp;&lt;/div&gt;&lt;div&gt;DB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dGJEiFcKrKWjEn7lNZrT-10" target="dGJEiFcKrKWjEn7lNZrT-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-10" value="&lt;div&gt;Firebase&lt;/div&gt;&lt;div&gt;SDK&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="620" y="255" width="80" height="80" as="geometry" />
+          <mxGeometry x="-130" y="-345" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;" parent="1" source="dGJEiFcKrKWjEn7lNZrT-14" target="dGJEiFcKrKWjEn7lNZrT-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="370" />
-              <mxPoint x="780" y="370" />
+              <mxPoint x="-90" y="-230" />
+              <mxPoint x="30" y="-230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-14" value="Key" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="385" width="120" height="80" as="geometry" />
+          <mxGeometry x="-150" y="-215" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dGJEiFcKrKWjEn7lNZrT-22" value="&lt;div&gt;Decrypted&lt;/div&gt;&lt;div&gt;with key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="270" width="80" height="50" as="geometry" />
+          <mxGeometry x="-10" y="-330" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B3koVr0C25SMxbMkGv8T-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2092" y="90" width="1100" height="1140" as="geometry" />
@@ -1465,7 +1465,7 @@
         <mxCell id="6ol0JsVS7JV3KA15vb1v-2" value="MS-CHAT create:&lt;br&gt;&lt;div&gt;- &lt;strike&gt;private_key&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;- public_key&lt;/div&gt;&lt;div&gt;- secret_key&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="6ol0JsVS7JV3KA15vb1v-1" vertex="1">
           <mxGeometry x="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WpVMzOt13RGtiulSSgX8-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="WpVMzOt13RGtiulSSgX8-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2092" y="-580" width="1160" height="590" as="geometry" />
         </mxCell>
         <mxCell id="FpWlYF9ewaTBgeSpdRpB-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="WpVMzOt13RGtiulSSgX8-1" source="zmaRhfqbEjyX_llvltKb-7" target="FpWlYF9ewaTBgeSpdRpB-1" edge="1">
