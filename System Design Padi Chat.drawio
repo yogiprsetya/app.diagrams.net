@@ -1080,7 +1080,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XxewbzxPzNpD3vIkaHTC-12" value="&lt;div align=&quot;left&quot;&gt;Data spesification:&lt;br&gt;- userId&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- buyerName&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="120" height="100" as="geometry" />
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
