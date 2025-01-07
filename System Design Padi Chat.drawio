@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.1" pages="8">
   <diagram name="Page-1" id="0ORSx8LRnBOkC67IxLJI">
     <mxGraphModel dx="1900" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1020,10 +1020,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PnmB0vMcXwr80MM-xcGP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="PnmB0vMcXwr80MM-xcGP-2" target="PnmB0vMcXwr80MM-xcGP-7" edge="1">
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;opacity=50;" parent="1" source="PnmB0vMcXwr80MM-xcGP-2" target="PnmB0vMcXwr80MM-xcGP-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PnmB0vMcXwr80MM-xcGP-2" value="Padi Chat - NPC&lt;br&gt;- Broadcast to seller&lt;br&gt;- Broadcast to buyer" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;" parent="1" vertex="1">
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-2" value="Padi Chat - NPC&lt;br&gt;- Broadcast to seller&lt;br&gt;- Broadcast to buyer" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;glass=1;opacity=50;textOpacity=50;" parent="1" vertex="1">
           <mxGeometry x="23" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnmB0vMcXwr80MM-xcGP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PnmB0vMcXwr80MM-xcGP-5" target="PnmB0vMcXwr80MM-xcGP-14" edge="1">
@@ -1032,10 +1032,10 @@
         <mxCell id="PnmB0vMcXwr80MM-xcGP-5" value="Campaign&lt;br&gt;- seller to buyer" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;" parent="1" vertex="1">
           <mxGeometry x="23" y="480" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PnmB0vMcXwr80MM-xcGP-7" value="New table (NPC data)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10.000000000000114;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" parent="1" vertex="1">
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-7" value="New table (NPC data)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10.000000000000114;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;opacity=50;textOpacity=50;" parent="1" vertex="1">
           <mxGeometry x="20" y="340" width="145" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PnmB0vMcXwr80MM-xcGP-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PnmB0vMcXwr80MM-xcGP-2" target="PnmB0vMcXwr80MM-xcGP-14" edge="1">
+        <mxCell id="PnmB0vMcXwr80MM-xcGP-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=25;" parent="1" source="PnmB0vMcXwr80MM-xcGP-2" target="PnmB0vMcXwr80MM-xcGP-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="203" y="500" as="sourcePoint" />
             <mxPoint x="253" y="450" as="targetPoint" />
@@ -1096,8 +1096,8 @@
         <mxCell id="PnmB0vMcXwr80MM-xcGP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="PnmB0vMcXwr80MM-xcGP-23" target="PnmB0vMcXwr80MM-xcGP-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dq00PVkHLCO8_ASGIxIm-1" value="&lt;div&gt;Utilize data:&lt;/div&gt;&lt;div&gt;- Big query&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;spacingLeft=14;" vertex="1" parent="1">
-          <mxGeometry x="403" y="360" width="170" height="40" as="geometry" />
+        <mxCell id="Dq00PVkHLCO8_ASGIxIm-1" value="&lt;div&gt;Utilize data:&lt;/div&gt;&lt;div&gt;- Big query&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;spacingLeft=14;" parent="1" vertex="1">
+          <mxGeometry x="400" y="360" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
