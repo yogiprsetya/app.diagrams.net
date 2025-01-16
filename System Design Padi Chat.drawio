@@ -583,7 +583,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mmUQnFBdAfpMcHLeRtTI-1" value="BroadcastMessage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="bkuxuJNN6oFB9MLCWyR--1" vertex="1">
+        <mxCell id="mmUQnFBdAfpMcHLeRtTI-1" value="broadcast-message" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="bkuxuJNN6oFB9MLCWyR--1" vertex="1">
           <mxGeometry x="21" y="806" width="217" height="372" as="geometry" />
         </mxCell>
         <mxCell id="mmUQnFBdAfpMcHLeRtTI-2" value="+ sellerId: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="mmUQnFBdAfpMcHLeRtTI-1" vertex="1">
