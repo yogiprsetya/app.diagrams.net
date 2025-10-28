@@ -284,7 +284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-C5E3v7ZI0PwVyFsUeE0" name="Entity Diagram">
-    <mxGraphModel dx="5495" dy="2222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="4506" dy="1689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,7 +333,7 @@
         <mxCell id="bkuxuJNN6oFB9MLCWyR--3" value="+ &lt;span class=&quot;database-key&quot;&gt;userId&lt;/span&gt;: Array&amp;lt;string&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bkuxuJNN6oFB9MLCWyR--2" vertex="1">
           <mxGeometry y="26" width="274" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bkuxuJNN6oFB9MLCWyR--4" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;+ &lt;span class=&quot;database-key&quot;&gt;lastMessage&lt;/span&gt;: string&amp;nbsp;&amp;lt;deprecated&amp;gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bkuxuJNN6oFB9MLCWyR--2" vertex="1">
+        <mxCell id="bkuxuJNN6oFB9MLCWyR--4" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(234, 107, 102));&quot;&gt;+ &lt;span class=&quot;database-key&quot;&gt;lastMessage&lt;/span&gt;: string&amp;nbsp;&amp;lt;deprecated&amp;gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bkuxuJNN6oFB9MLCWyR--2" vertex="1">
           <mxGeometry y="52" width="274" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2K7VIR8tKLHLOecuMVdB-1" value="+ &lt;span class=&quot;database-key&quot;&gt;latestMessage&lt;/span&gt;:&amp;nbsp;&lt;span class=&quot;database-key&quot;&gt;LatestMessage&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bkuxuJNN6oFB9MLCWyR--2" vertex="1">
